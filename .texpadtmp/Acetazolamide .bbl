@@ -1,0 +1,188 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Neyra2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=NJ}{%
+         family={Neyra},
+         familyi={N\bibinitperiod},
+         given={JA},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AMJ}{%
+         family={Alvarez-Maza},
+         familyi={A\bibinithyphendelim M\bibinitperiod},
+         given={JC},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Novak},
+         familyi={N\bibinitperiod},
+         given={JE},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJAMJNJ1}
+    \strng{fullhash}{NJAMJNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Acetazolamide (ACZ) is a sulfonamide derivative that inhibits carbonic
+  anhydrase and is the mainstay for prevention and treatment of acute mountain
+  sickness (AMS). Acute kidney injury (AKI) is not well recognized as a
+  complication of ACZ ingestion, especially when low doses are used for short
+  periods of time. We report a case of a healthy, middle-aged man who developed
+  severe AKI after the ingestion of ACZ for AMS prophylaxis. The patient
+  presented with bilateral flank pain and anuric AKI without radiographic signs
+  of obstructive uropathy. All blood and urine testing to determine the cause
+  of AKI were negative or normal. The patient required 2 sessions of
+  hemodialysis due to worsening metabolic derangements, which included severe
+  anion gap metabolic acidosis and hyperphosphatemia. Renal function returned
+  to baseline after 96 hours of supportive care. The pathogenesis of AKI in our
+  patient was attributed to ACZ-induced sulfonamide crystalluria causing
+  intratubular obstruction and retrograde urine flow, but not intraureteric
+  precipitation or obstructive uropathy. This classic presentation of anuric
+  AKI and renal colic has been previously described with higher doses of ACZ
+  for prolonged periods of time but never with low doses for AMS prophylaxis
+  such as in our patient (total dose of 1250 mg within 48 hours). Our case
+  highlights the risk of adverse renal outcomes following ACZ ingestion, even
+  in previously healthy individuals, and suggests that increased fluid intake
+  may be advisable for travelers taking ACZ prophylaxis.%
+    }
+    \field{number}{2}
+    \field{pages}{2324709614530559}
+    \field{title}{Anuric Acute Kidney Injury Induced by Acute Mountain Sickness
+  Prophylaxis With Acetazolamide.}
+    \field{volume}{2}
+    \field{journaltitle}{J Investig Med High Impact Case Rep}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Rossert1984}{article}{}
+    \name{author}{7}{}{%
+      {{hash=RJ}{%
+         family={Rossert},
+         familyi={R\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=RE}{%
+         family={Rondeau},
+         familyi={R\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+      {{hash=JG}{%
+         family={Jondeau},
+         familyi={J\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=RP}{%
+         family={Ronco},
+         familyi={R\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+      {{hash=MB}{%
+         family={Mougenot},
+         familyi={M\bibinitperiod},
+         given={B},
+         giveni={B},
+      }}%
+      {{hash=KA}{%
+         family={Kanfer},
+         familyi={K\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=SJ}{%
+         family={Sraer},
+         familyi={S\bibinitperiod},
+         given={JD},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJREJGRPMBKASJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A patient with ocular hypertension was treated with acetazolamide. Acute
+  renal failure developed rapidly and renal biopsy showed mild tubular lesions
+  and crystal formation in a tubular lumen. By immunofluorescence studies with
+  a monoclonal antibody, Tamm-Horsfall protein, normally absent from the
+  proximal segments of the nephron, was detected in most glomeruli. This
+  strongly suggests that tubular obstruction plays a major part in some cases
+  of acetazolamide-induced acute renal failure.%
+    }
+    \field{number}{1}
+    \field{pages}{56\bibrangedash 57}
+    \field{title}{Tamm-Horsfall protein accumulation in glomeruli during
+  acetazolamide-induced acute renal failure.}
+    \field{volume}{9}
+    \field{journaltitle}{Am J Nephrol}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Lawson2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LC}{%
+         family={Lawson},
+         familyi={L\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+      {{hash=ML}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=WV}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={V},
+         giveni={V},
+      }}%
+      {{hash=BB}{%
+         family={Burns},
+         familyi={B\bibinitperiod},
+         given={B},
+         giveni={B},
+      }}%
+    }
+    \strng{namehash}{LC+1}
+    \strng{fullhash}{LCMLWVBB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.7759/cureus.10107
+    \endverb
+    \field{number}{8}
+    \field{pages}{e10107}
+    \field{title}{Hemorrhagic Anuria With Acute Kidney Injury After a Single
+  Dose of Acetazolamide: A Case Study of a Rare Side Effect.}
+    \field{volume}{12}
+    \field{journaltitle}{Cureus}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput
