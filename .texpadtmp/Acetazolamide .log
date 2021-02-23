@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.18)  5 FEB 2021 20:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.18)  23 FEB 2021 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -332,18 +332,18 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
  (/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .aux)
 \openout1 = `"Acetazolamide .aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
@@ -390,51 +390,81 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 12.
-Package biblatex Info: Reference segment=0 on input line 12.
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+Package biblatex Info: Reference section=0 on input line 13.
+Package biblatex Info: Reference segment=0 on input line 13.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <./images/InputOutput.png, id=1, 366.03416pt x 357.66959pt>
 File: ./images/InputOutput.png Graphic file (type png)
 <use ./images/InputOutput.png>
-Package pdftex.def Info: ./images/InputOutput.png  used on input line 26.
+Package pdftex.def Info: ./images/InputOutput.png  used on input line 30.
 (pdftex.def)             Requested size: 180.0pt x 175.88724pt.
 <./images/ubc.png, id=3, 411.5375pt x 373.06041pt>
 File: ./images/ubc.png Graphic file (type png)
 <use ./images/ubc.png>
-Package pdftex.def Info: ./images/ubc.png  used on input line 30.
+Package pdftex.def Info: ./images/ubc.png  used on input line 34.
 (pdftex.def)             Requested size: 180.0pt x 163.16798pt.
 
-Overfull \hbox (2.43333pt too wide) in paragraph at lines 25--33
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 29--37
+[]$[]$ $[]$ 
+ []
+
+<./images/rtkidus.jpg, id=4, 1273.75874pt x 773.89125pt>
+File: ./images/rtkidus.jpg Graphic file (type jpg)
+<use ./images/rtkidus.jpg>
+Package pdftex.def Info: ./images/rtkidus.jpg  used on input line 42.
+(pdftex.def)             Requested size: 180.0pt x 109.35957pt.
+<./images/ltkidus.jpg, id=5, 1277.77374pt x 758.835pt>
+File: ./images/ltkidus.jpg Graphic file (type jpg)
+<use ./images/ltkidus.jpg>
+Package pdftex.def Info: ./images/ltkidus.jpg  used on input line 46.
+(pdftex.def)             Requested size: 180.0pt x 106.89616pt.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 41--49
+[]$[]$ $[]$ 
+ []
+
+<./images/rtkidct.png, id=6, 674.52pt x 723.70375pt>
+File: ./images/rtkidct.png Graphic file (type png)
+<use ./images/rtkidct.png>
+Package pdftex.def Info: ./images/rtkidct.png  used on input line 54.
+(pdftex.def)             Requested size: 180.0pt x 193.11676pt.
+<./images/ltkidct.png, id=7, 714.67pt x 735.74875pt>
+File: ./images/ltkidct.png Graphic file (type png)
+<use ./images/ltkidct.png>
+Package pdftex.def Info: ./images/ltkidct.png  used on input line 58.
+(pdftex.def)             Requested size: 180.0pt x 185.30638pt.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 53--61
 []$[]$ $[]$ 
  []
 
 [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./images/InputOutput.png> <./images/ubc.png>] (/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .aux)
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./images/InputOutput.png> <./images/ubc.png> <./images/rtkidus.jpg> <./images/ltkidus.jpg>] [3 <./images/rtkidct.png> <./images/ltkidct.png>] [4] (/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .aux)
 Package logreq Info: Writing requests to '"Acetazolamide ".run.xml'.
 \openout1 = `"Acetazolamide .run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9688 strings out of 492616
- 173579 string characters out of 6129481
- 431931 words of memory out of 5000000
- 13515 multiletter control sequences out of 15000+600000
+ 9709 strings out of 492616
+ 174023 string characters out of 6129481
+ 433931 words of memory out of 5000000
+ 13531 multiletter control sequences out of 15000+600000
  11860 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,7n,45p,977b,1186s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .pdf" (2 pages, 338441 bytes).
+Output written on "/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .pdf" (4 pages, 1631532 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
