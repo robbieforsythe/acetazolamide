@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.18)  23 FEB 2021 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.18)  1 MAR 2021 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -415,12 +415,15 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 29--37
 []$[]$ $[]$ 
  []
 
-<./images/rtkidus.jpg, id=4, 1273.75874pt x 773.89125pt>
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./images/rtkidus.jpg, id=14, 1273.75874pt x 773.89125pt>
 File: ./images/rtkidus.jpg Graphic file (type jpg)
 <use ./images/rtkidus.jpg>
 Package pdftex.def Info: ./images/rtkidus.jpg  used on input line 42.
 (pdftex.def)             Requested size: 180.0pt x 109.35957pt.
-<./images/ltkidus.jpg, id=5, 1277.77374pt x 758.835pt>
+<./images/ltkidus.jpg, id=15, 1277.77374pt x 758.835pt>
 File: ./images/ltkidus.jpg Graphic file (type jpg)
 <use ./images/ltkidus.jpg>
 Package pdftex.def Info: ./images/ltkidus.jpg  used on input line 46.
@@ -430,12 +433,12 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 41--49
 []$[]$ $[]$ 
  []
 
-<./images/rtkidct.png, id=6, 674.52pt x 723.70375pt>
+<./images/rtkidct.png, id=16, 674.52pt x 723.70375pt>
 File: ./images/rtkidct.png Graphic file (type png)
 <use ./images/rtkidct.png>
 Package pdftex.def Info: ./images/rtkidct.png  used on input line 54.
 (pdftex.def)             Requested size: 180.0pt x 193.11676pt.
-<./images/ltkidct.png, id=7, 714.67pt x 735.74875pt>
+<./images/ltkidct.png, id=17, 714.67pt x 735.74875pt>
 File: ./images/ltkidct.png Graphic file (type png)
 <use ./images/ltkidct.png>
 Package pdftex.def Info: ./images/ltkidct.png  used on input line 58.
@@ -445,9 +448,12 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 53--61
 []$[]$ $[]$ 
  []
 
-[1
+[2 <./images/InputOutput.png> <./images/ubc.png> <./images/rtkidus.jpg> <./images/ltkidus.jpg>]
+Overfull \hbox (7.11943pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10.95 these med-i-ca-tions may cause. Here we de-scribe an un-usual but life-threatening
+ []
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./images/InputOutput.png> <./images/ubc.png> <./images/rtkidus.jpg> <./images/ltkidus.jpg>] [3 <./images/rtkidct.png> <./images/ltkidct.png>] [4] (/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .aux)
+[3 <./images/rtkidct.png> <./images/ltkidct.png>] [4] (/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .aux)
 Package logreq Info: Writing requests to '"Acetazolamide ".run.xml'.
 \openout1 = `"Acetazolamide .run.xml"'.
 
@@ -455,13 +461,13 @@ Package logreq Info: Writing requests to '"Acetazolamide ".run.xml'.
 Here is how much of TeX's memory you used:
  9709 strings out of 492616
  174023 string characters out of 6129481
- 433931 words of memory out of 5000000
+ 431931 words of memory out of 5000000
  13531 multiletter control sequences out of 15000+600000
  11860 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,45p,977b,1186s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,7n,45p,973b,1186s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .pdf" (4 pages, 1631532 bytes).
+Output written on "/Users/robertforsythe/Library/Mobile Documents/com~apple~CloudDocs/Projects/PGDE/Course Assignment/acetazolamide/.texpadtmp/Acetazolamide .pdf" (4 pages, 1632048 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
